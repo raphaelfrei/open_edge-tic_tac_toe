@@ -1,0 +1,525 @@
+
+                Thu Mar 31 13:22:11 2022
+[2022/03/31@13:22:11.953-0300] P-11404      T-9980  I DBUTIL   : (451)   Sessão prostrct create iniciada por arorap1 em CON:. 
+[2022/03/31@13:22:11.972-0300] P-11404      T-9980  I DBUTIL   : (12862) Arquivo de estrutura  C:\Raphael\DB\bd.st usado para criar banco de dados com tamanho de bloco  4096. 
+[2022/03/31@13:22:11.980-0300] P-11404      T-9980  I DBUTIL   : (334)   Fim de sessão prostrct create. 
+[2022/03/31@13:22:11.990-0300] P-11404      T-9980  I DBUTIL   : (451)   Sessão procopy iniciada por arorap1 em CON:. 
+[2022/03/31@13:22:12.089-0300] P-11404      T-9980  I DBUTIL   : (334)   Fim de sessão procopy. 
+
+                Thu Mar 31 13:22:12 2022
+[2022/03/31@13:22:12.105-0300] P-11404      T-9980  I          : (451)   Sessão procopy get default SQL DBA iniciada por arorap1 em CON:. 
+[2022/03/31@13:22:12.106-0300] P-11404      T-9980  I          : (15321) Inicialização do log Before Image no bloco 0  offset 44643896. 
+[2022/03/31@13:22:12.388-0300] P-11404      T-9980  I          : (14867) Procopy -newinstance criou uma nova GUID de banco de dados. 
+[2022/03/31@13:22:12.399-0300] P-11404      T-9980  I          : (15109) No fechamento do banco de dados o número de transações ao vivo é 0. 
+[2022/03/31@13:22:12.400-0300] P-11404      T-9980  I          : (15743) Conclusão do log Before Image no bloco 0 Offset 2738. 
+[2022/03/31@13:22:12.407-0300] P-11404      T-9980  I          : (334)   Fim de sessão procopy get default SQL DBA. 
+
+                Thu Mar 31 13:22:24 2022
+[2022/03/31@13:22:24.445-0300] P-11328      T-11060 I ABL      : (451)   Sessão Single-user iniciada por arorap1 em CON:. 
+[2022/03/31@13:22:24.450-0300] P-11328      T-11060 I ABL      : (15321) Inicialização do log Before Image no bloco 0  offset 2738. 
+[2022/03/31@13:22:24.476-0300] P-11328      T-11060 I ABL      : (7129)  Usr 0 define nome para arorap1. 
+[2022/03/31@13:26:15.764-0300] P-11328      T-11060 I ABL      : (15109) No fechamento do banco de dados o número de transações ao vivo é 0. 
+[2022/03/31@13:26:15.764-0300] P-11328      T-11060 I ABL      : (15743) Conclusão do log Before Image no bloco 5 Offset 1926. 
+[2022/03/31@13:26:15.771-0300] P-11328      T-11060 I ABL      : (334)   Fim de sessão Single-user. 
+
+                Thu Mar 31 13:30:52 2022
+[2022/03/31@13:30:52.736-0300] P-1904       T-10188 I ABL      : (451)   Sessão Single-user iniciada por arorap1 em CON:. 
+[2022/03/31@13:30:52.739-0300] P-1904       T-10188 I ABL      : (15321) Inicialização do log Before Image no bloco 5  offset 1926. 
+[2022/03/31@13:30:52.747-0300] P-1904       T-10188 I ABL      : (7129)  Usr 0 define nome para arorap1. 
+[2022/03/31@13:33:54.876-0300] P-1904       T-10188 I ABL      : (15109) No fechamento do banco de dados o número de transações ao vivo é 0. 
+[2022/03/31@13:33:54.876-0300] P-1904       T-10188 I ABL      : (15743) Conclusão do log Before Image no bloco 5 Offset 1926. 
+[2022/03/31@13:33:54.883-0300] P-1904       T-10188 I ABL      : (334)   Fim de sessão Single-user. 
+
+                Thu Mar 31 13:33:59 2022
+[2022/03/31@13:33:59.237-0300] P-13028      T-7580  I ABL      : (451)   Sessão Single-user iniciada por arorap1 em CON:. 
+[2022/03/31@13:33:59.239-0300] P-13028      T-7580  I ABL      : (15321) Inicialização do log Before Image no bloco 5  offset 1926. 
+[2022/03/31@13:33:59.247-0300] P-13028      T-7580  I ABL      : (7129)  Usr 0 define nome para arorap1. 
+[2022/03/31@14:54:58.942-0300] P-13028      T-7580  I ABL      : (15109) No fechamento do banco de dados o número de transações ao vivo é 0. 
+[2022/03/31@14:54:58.943-0300] P-13028      T-7580  I ABL      : (15743) Conclusão do log Before Image no bloco 6 Offset 7101. 
+[2022/03/31@14:54:58.949-0300] P-13028      T-7580  I ABL      : (334)   Fim de sessão Single-user. 
+
+                Fri Apr 01 08:02:30 2022
+[2022/04/01@08:02:30.478-0300] P-11328      T-12712 I ABL      : (451)   Sessão Single-user iniciada por arorap1 em CON:. 
+[2022/04/01@08:02:30.483-0300] P-11328      T-12712 I ABL      : (15321) Inicialização do log Before Image no bloco 6  offset 7101. 
+[2022/04/01@08:02:30.493-0300] P-11328      T-12712 I ABL      : (7129)  Usr 0 define nome para arorap1. 
+[2022/04/01@14:58:02.134-0300] P-11328      T-12712 I ABL      : (15109) No fechamento do banco de dados o número de transações ao vivo é 0. 
+[2022/04/01@14:58:02.135-0300] P-11328      T-12712 I ABL      : (15743) Conclusão do log Before Image no bloco 10 Offset 2362. 
+[2022/04/01@14:58:02.141-0300] P-11328      T-12712 I ABL      : (334)   Fim de sessão Single-user. 
+
+                Mon Apr 04 08:31:57 2022
+[2022/04/04@08:31:57.693-0300] P-6168       T-1836  I ABL      : (451)   Sessão Single-user iniciada por arorap1 em CON:. 
+[2022/04/04@08:31:57.695-0300] P-6168       T-1836  I ABL      : (15321) Inicialização do log Before Image no bloco 10  offset 2362. 
+[2022/04/04@08:31:57.704-0300] P-6168       T-1836  I ABL      : (7129)  Usr 0 define nome para arorap1. 
+[2022/04/04@09:04:16.617-0300] P-6168       T-1836  I ABL      : (5409)  ATENÇÃO: -mmax excedeu. Automaticamente aumentado de 3096 para 3163. 
+[2022/04/04@09:04:18.609-0300] P-6168       T-1836  I ABL      : (5409)  ATENÇÃO: -mmax excedeu. Automaticamente aumentado de 3163 para 3340. 
+[2022/04/04@09:05:58.070-0300] P-6168       T-1836  I ABL      : (5409)  ATENÇÃO: -mmax excedeu. Automaticamente aumentado de 3340 para 3638. 
+[2022/04/04@09:05:59.405-0300] P-6168       T-1836  I ABL      : (5409)  ATENÇÃO: -mmax excedeu. Automaticamente aumentado de 3638 para 4120. 
+[2022/04/04@09:05:59.970-0300] P-6168       T-1836  I ABL      : (5409)  ATENÇÃO: -mmax excedeu. Automaticamente aumentado de 4120 para 4418. 
+[2022/04/04@09:06:00.478-0300] P-6168       T-1836  I ABL      : (5409)  ATENÇÃO: -mmax excedeu. Automaticamente aumentado de 4418 para 4485. 
+[2022/04/04@14:59:23.062-0300] P-6168       T-1836  I ABL      : (15109) No fechamento do banco de dados o número de transações ao vivo é 0. 
+[2022/04/04@14:59:23.063-0300] P-6168       T-1836  I ABL      : (15743) Conclusão do log Before Image no bloco 10 Offset 5587. 
+[2022/04/04@14:59:23.069-0300] P-6168       T-1836  I ABL      : (334)   Fim de sessão Single-user. 
+
+                Tue Apr 05 08:04:13 2022
+[2022/04/05@08:04:13.388-0300] P-10032      T-6640  I ABL      : (451)   Sessão Single-user iniciada por arorap1 em CON:. 
+[2022/04/05@08:04:13.389-0300] P-10032      T-6640  I ABL      : (15321) Inicialização do log Before Image no bloco 10  offset 5587. 
+[2022/04/05@08:04:13.398-0300] P-10032      T-6640  I ABL      : (7129)  Usr 0 define nome para arorap1. 
+[2022/04/05@13:33:13.957-0300] P-10032      T-6640  I ABL      : (15109) No fechamento do banco de dados o número de transações ao vivo é 0. 
+[2022/04/05@13:33:13.957-0300] P-10032      T-6640  I ABL      : (15743) Conclusão do log Before Image no bloco 11 Offset 871. 
+[2022/04/05@13:33:13.964-0300] P-10032      T-6640  I ABL      : (334)   Fim de sessão Single-user. 
+
+                Tue Apr 05 13:33:29 2022
+[2022/04/05@13:33:29.765-0300] P-6940       T-10380 I ABL      : (451)   Sessão Single-user iniciada por arorap1 em CON:. 
+[2022/04/05@13:33:29.768-0300] P-6940       T-10380 I ABL      : (15321) Inicialização do log Before Image no bloco 11  offset 871. 
+[2022/04/05@13:33:29.779-0300] P-6940       T-10380 I ABL      : (7129)  Usr 0 define nome para arorap1. 
+[2022/04/05@14:55:31.374-0300] P-6940       T-10380 I ABL      : (15109) No fechamento do banco de dados o número de transações ao vivo é 0. 
+[2022/04/05@14:55:31.374-0300] P-6940       T-10380 I ABL      : (15743) Conclusão do log Before Image no bloco 11 Offset 931. 
+[2022/04/05@14:55:31.380-0300] P-6940       T-10380 I ABL      : (334)   Fim de sessão Single-user. 
+
+                Wed Apr 06 08:06:56 2022
+[2022/04/06@08:06:56.301-0300] P-6852       T-5224  I ABL      : (451)   Sessão Single-user iniciada por arorap1 em CON:. 
+[2022/04/06@08:06:56.304-0300] P-6852       T-5224  I ABL      : (15321) Inicialização do log Before Image no bloco 11  offset 931. 
+[2022/04/06@08:06:56.312-0300] P-6852       T-5224  I ABL      : (7129)  Usr 0 define nome para arorap1. 
+[2022/04/06@14:58:49.558-0300] P-6852       T-5224  I ABL      : (15109) No fechamento do banco de dados o número de transações ao vivo é 0. 
+[2022/04/06@14:58:49.558-0300] P-6852       T-5224  I ABL      : (15743) Conclusão do log Before Image no bloco 11 Offset 991. 
+[2022/04/06@14:58:49.563-0300] P-6852       T-5224  I ABL      : (334)   Fim de sessão Single-user. 
+
+                Thu Apr 07 08:06:30 2022
+[2022/04/07@08:06:30.908-0300] P-7568       T-5772  I ABL      : (451)   Sessão Single-user iniciada por arorap1 em CON:. 
+[2022/04/07@08:06:30.910-0300] P-7568       T-5772  I ABL      : (15321) Inicialização do log Before Image no bloco 11  offset 991. 
+[2022/04/07@08:06:30.919-0300] P-7568       T-5772  I ABL      : (7129)  Usr 0 define nome para arorap1. 
+[2022/04/07@14:58:26.911-0300] P-7568       T-5772  I ABL      : (15109) No fechamento do banco de dados o número de transações ao vivo é 0. 
+[2022/04/07@14:58:26.912-0300] P-7568       T-5772  I ABL      : (15743) Conclusão do log Before Image no bloco 11 Offset 1051. 
+[2022/04/07@14:58:26.918-0300] P-7568       T-5772  I ABL      : (334)   Fim de sessão Single-user. 
+
+                Fri Apr 08 08:00:15 2022
+[2022/04/08@08:00:15.921-0300] P-4732       T-5852  I ABL      : (451)   Sessão Single-user iniciada por arorap1 em CON:. 
+[2022/04/08@08:00:15.923-0300] P-4732       T-5852  I ABL      : (15321) Inicialização do log Before Image no bloco 11  offset 1051. 
+[2022/04/08@08:00:15.931-0300] P-4732       T-5852  I ABL      : (7129)  Usr 0 define nome para arorap1. 
+[2022/04/08@08:41:52.455-0300] P-4732       T-5852  I ABL      : (43)    ** Não foi possível encontrar ou abrir o arquivo C:\RTA\RTA.d1, errno = 2. 
+[2022/04/08@09:29:37.664-0300] P-4732       T-5852  I ABL      : (43)    ** Não foi possível encontrar ou abrir o arquivo C:\RTA\RTA.d1, errno = 2. 
+[2022/04/08@09:31:54.870-0300] P-4732       T-5852  I ABL      : (43)    ** Não foi possível encontrar ou abrir o arquivo C:\RTA\RTA.d1, errno = 2. 
+[2022/04/08@09:32:45.676-0300] P-4732       T-5852  I ABL      : (43)    ** Não foi possível encontrar ou abrir o arquivo C:\RTA\RTA.d1, errno = 2. 
+[2022/04/08@09:32:51.860-0300] P-4732       T-5852  I ABL      : (43)    ** Não foi possível encontrar ou abrir o arquivo C:\RTA\RTA.d1, errno = 2. 
+[2022/04/08@09:33:07.092-0300] P-4732       T-5852  I ABL      : (43)    ** Não foi possível encontrar ou abrir o arquivo C:\RTA\RTA.d1, errno = 2. 
+[2022/04/08@10:39:13.905-0300] P-4732       T-5852  I ABL      : (43)    ** Não foi possível encontrar ou abrir o arquivo C:\RTA\RTA.d1, errno = 2. 
+[2022/04/08@10:42:03.122-0300] P-4732       T-5852  I ABL      : (15109) No fechamento do banco de dados o número de transações ao vivo é 0. 
+[2022/04/08@10:42:03.122-0300] P-4732       T-5852  I ABL      : (15743) Conclusão do log Before Image no bloco 11 Offset 1111. 
+[2022/04/08@10:42:03.130-0300] P-4732       T-5852  I ABL      : (334)   Fim de sessão Single-user. 
+
+                Fri Apr 08 10:45:44 2022
+[2022/04/08@10:45:44.910-0300] P-3296       T-4700  I ABL      : (451)   Sessão Single-user iniciada por arorap1 em CON:. 
+[2022/04/08@10:45:44.915-0300] P-3296       T-4700  I ABL      : (15321) Inicialização do log Before Image no bloco 11  offset 1111. 
+[2022/04/08@10:45:44.931-0300] P-3296       T-4700  I ABL      : (7129)  Usr 0 define nome para arorap1. 
+[2022/04/08@10:45:50.516-0300] P-3296       T-4700  I ABL      : (15109) No fechamento do banco de dados o número de transações ao vivo é 0. 
+[2022/04/08@10:45:50.516-0300] P-3296       T-4700  I ABL      : (15743) Conclusão do log Before Image no bloco 11 Offset 1111. 
+[2022/04/08@10:45:50.526-0300] P-3296       T-4700  I ABL      : (334)   Fim de sessão Single-user. 
+
+                Fri Apr 08 10:50:40 2022
+[2022/04/08@10:50:40.635-0300] P-96         T-9948  I ABL      : (451)   Sessão Single-user iniciada por arorap1 em CON:. 
+[2022/04/08@10:50:40.637-0300] P-96         T-9948  I ABL      : (15321) Inicialização do log Before Image no bloco 11  offset 1111. 
+[2022/04/08@10:50:40.648-0300] P-96         T-9948  I ABL      : (7129)  Usr 0 define nome para arorap1. 
+[2022/04/08@10:50:53.047-0300] P-96         T-9948  I ABL      : (15109) No fechamento do banco de dados o número de transações ao vivo é 0. 
+[2022/04/08@10:50:53.047-0300] P-96         T-9948  I ABL      : (15743) Conclusão do log Before Image no bloco 11 Offset 1111. 
+[2022/04/08@10:50:53.056-0300] P-96         T-9948  I ABL      : (334)   Fim de sessão Single-user. 
+
+                Fri Apr 08 10:52:14 2022
+[2022/04/08@10:52:14.465-0300] P-7648       T-6244  I ABL      : (451)   Sessão Single-user iniciada por arorap1 em CON:. 
+[2022/04/08@10:52:14.467-0300] P-7648       T-6244  I ABL      : (15321) Inicialização do log Before Image no bloco 11  offset 1111. 
+[2022/04/08@10:52:14.479-0300] P-7648       T-6244  I ABL      : (7129)  Usr 0 define nome para arorap1. 
+[2022/04/08@10:52:19.350-0300] P-7648       T-6244  I ABL      : (15109) No fechamento do banco de dados o número de transações ao vivo é 0. 
+[2022/04/08@10:52:19.350-0300] P-7648       T-6244  I ABL      : (15743) Conclusão do log Before Image no bloco 11 Offset 1111. 
+[2022/04/08@10:52:19.357-0300] P-7648       T-6244  I ABL      : (334)   Fim de sessão Single-user. 
+
+                Fri Apr 08 10:52:28 2022
+[2022/04/08@10:52:28.885-0300] P-2128       T-6972  I ABL      : (451)   Sessão Single-user iniciada por arorap1 em CON:. 
+[2022/04/08@10:52:28.887-0300] P-2128       T-6972  I ABL      : (15321) Inicialização do log Before Image no bloco 11  offset 1111. 
+[2022/04/08@10:52:28.896-0300] P-2128       T-6972  I ABL      : (7129)  Usr 0 define nome para arorap1. 
+[2022/04/08@10:52:32.731-0300] P-2128       T-6972  I ABL      : (15109) No fechamento do banco de dados o número de transações ao vivo é 0. 
+[2022/04/08@10:52:32.731-0300] P-2128       T-6972  I ABL      : (15743) Conclusão do log Before Image no bloco 11 Offset 1111. 
+[2022/04/08@10:52:32.741-0300] P-2128       T-6972  I ABL      : (334)   Fim de sessão Single-user. 
+
+                Fri Apr 08 11:01:45 2022
+[2022/04/08@11:01:45.400-0300] P-12640      T-8988  I ABL      : (451)   Sessão Single-user iniciada por arorap1 em CON:. 
+[2022/04/08@11:01:45.402-0300] P-12640      T-8988  I ABL      : (15321) Inicialização do log Before Image no bloco 11  offset 1111. 
+[2022/04/08@11:01:45.411-0300] P-12640      T-8988  I ABL      : (7129)  Usr 0 define nome para arorap1. 
+[2022/04/08@14:49:18.428-0300] P-12640      T-8988  I ABL      : (15109) No fechamento do banco de dados o número de transações ao vivo é 0. 
+[2022/04/08@14:49:18.428-0300] P-12640      T-8988  I ABL      : (15743) Conclusão do log Before Image no bloco 11 Offset 1171. 
+[2022/04/08@14:49:18.435-0300] P-12640      T-8988  I ABL      : (334)   Fim de sessão Single-user. 
+
+                Mon Apr 11 08:25:56 2022
+[2022/04/11@08:25:56.260-0300] P-9948       T-13224 I ABL      : (451)   Sessão Single-user iniciada por arorap1 em CON:. 
+[2022/04/11@08:25:56.263-0300] P-9948       T-13224 I ABL      : (15321) Inicialização do log Before Image no bloco 11  offset 1171. 
+[2022/04/11@08:25:56.271-0300] P-9948       T-13224 I ABL      : (7129)  Usr 0 define nome para arorap1. 
+[2022/04/11@14:56:42.348-0300] P-9948       T-13224 I ABL      : (15109) No fechamento do banco de dados o número de transações ao vivo é 0. 
+[2022/04/11@14:56:42.348-0300] P-9948       T-13224 I ABL      : (15743) Conclusão do log Before Image no bloco 12 Offset 1573. 
+[2022/04/11@14:56:42.354-0300] P-9948       T-13224 I ABL      : (334)   Fim de sessão Single-user. 
+
+                Tue Apr 12 08:08:19 2022
+[2022/04/12@08:08:19.690-0300] P-5040       T-5988  I ABL      : (451)   Sessão Single-user iniciada por arorap1 em CON:. 
+[2022/04/12@08:08:19.692-0300] P-5040       T-5988  I ABL      : (15321) Inicialização do log Before Image no bloco 12  offset 1573. 
+[2022/04/12@08:08:19.701-0300] P-5040       T-5988  I ABL      : (7129)  Usr 0 define nome para arorap1. 
+[2022/04/12@09:16:52.737-0300] P-5040       T-5988  I ABL      : (15109) No fechamento do banco de dados o número de transações ao vivo é 0. 
+[2022/04/12@09:16:52.737-0300] P-5040       T-5988  I ABL      : (15743) Conclusão do log Before Image no bloco 12 Offset 1633. 
+[2022/04/12@09:16:52.745-0300] P-5040       T-5988  I ABL      : (334)   Fim de sessão Single-user. 
+
+                Tue Apr 12 09:25:04 2022
+[2022/04/12@09:25:04.621-0300] P-2040       T-7612  I ABL      : (451)   Sessão Single-user iniciada por arorap1 em CON:. 
+[2022/04/12@09:25:04.623-0300] P-2040       T-7612  I ABL      : (15321) Inicialização do log Before Image no bloco 12  offset 1633. 
+[2022/04/12@09:25:04.632-0300] P-2040       T-7612  I ABL      : (7129)  Usr 0 define nome para arorap1. 
+
+                Tue Apr 12 10:07:58 2022
+[2022/04/12@10:07:58.277-0300] P-9656       T-9196  I ABL      : (451)   Sessão Single-user iniciada por arorap1 em CON:. 
+[2022/04/12@10:07:58.283-0300] P-9656       T-9196  I ABL      : (5326)  Iniciar Fase de Refazer Físico em 0 . 
+[2022/04/12@10:07:58.304-0300] P-9656       T-9196  I ABL      : (7161)  Fase de Refazer Físico Concluída no blk 12 off 1944 upd 1. 
+[2022/04/12@10:07:58.304-0300] P-9656       T-9196  I ABL      : (13547) No final do refazer Físico, o tamanho da tabela de transação é 1. 
+[2022/04/12@10:07:58.313-0300] P-9656       T-9196  I ABL      : (7129)  Usr 0 define nome para arorap1. 
+[2022/04/12@14:59:22.804-0300] P-9656       T-9196  I ABL      : (15109) No fechamento do banco de dados o número de transações ao vivo é 0. 
+[2022/04/12@14:59:22.804-0300] P-9656       T-9196  I ABL      : (15743) Conclusão do log Before Image no bloco 19 Offset 6272. 
+[2022/04/12@14:59:22.810-0300] P-9656       T-9196  I ABL      : (334)   Fim de sessão Single-user. 
+
+                Wed Apr 13 08:23:18 2022
+[2022/04/13@08:23:18.435-0300] P-9820       T-9644  I ABL      : (451)   Sessão Single-user iniciada por arorap1 em CON:. 
+[2022/04/13@08:23:18.437-0300] P-9820       T-9644  I ABL      : (15321) Inicialização do log Before Image no bloco 19  offset 6272. 
+[2022/04/13@08:23:18.446-0300] P-9820       T-9644  I ABL      : (7129)  Usr 0 define nome para arorap1. 
+[2022/04/13@14:57:05.496-0300] P-9820       T-9644  I ABL      : (15109) No fechamento do banco de dados o número de transações ao vivo é 0. 
+[2022/04/13@14:57:05.496-0300] P-9820       T-9644  I ABL      : (15743) Conclusão do log Before Image no bloco 20 Offset 3304. 
+[2022/04/13@14:57:05.503-0300] P-9820       T-9644  I ABL      : (334)   Fim de sessão Single-user. 
+
+                Thu Apr 14 08:17:16 2022
+[2022/04/14@08:17:16.579-0300] P-12472      T-10052 I ABL      : (451)   Sessão Single-user iniciada por arorap1 em CON:. 
+[2022/04/14@08:17:16.582-0300] P-12472      T-10052 I ABL      : (15321) Inicialização do log Before Image no bloco 20  offset 3304. 
+[2022/04/14@08:17:16.590-0300] P-12472      T-10052 I ABL      : (7129)  Usr 0 define nome para arorap1. 
+[2022/04/14@08:42:00.678-0300] P-12472      T-10052 I ABL      : (15109) No fechamento do banco de dados o número de transações ao vivo é 0. 
+[2022/04/14@08:42:00.678-0300] P-12472      T-10052 I ABL      : (15743) Conclusão do log Before Image no bloco 20 Offset 3304. 
+[2022/04/14@08:42:00.685-0300] P-12472      T-10052 I ABL      : (334)   Fim de sessão Single-user. 
+
+                Mon Apr 18 07:36:50 2022
+[2022/04/18@07:36:50.870-0300] P-5136       T-5032  I ABL      : (451)   Sessão Single-user iniciada por arorap1 em CON:. 
+[2022/04/18@07:36:50.887-0300] P-5136       T-5032  I ABL      : (15321) Inicialização do log Before Image no bloco 20  offset 3304. 
+[2022/04/18@07:36:51.046-0300] P-5136       T-5032  I ABL      : (7129)  Usr 0 define nome para arorap1. 
+
+                Mon Apr 18 08:04:36 2022
+[2022/04/18@08:04:36.995-0300] P-6060       T-5132  I ABL      : (451)   Sessão Single-user iniciada por arorap1 em CON:. 
+[2022/04/18@08:04:37.022-0300] P-6060       T-5132  I ABL      : (5326)  Iniciar Fase de Refazer Físico em 0 . 
+[2022/04/18@08:04:37.089-0300] P-6060       T-5132  I ABL      : (7161)  Fase de Refazer Físico Concluída no blk 20 off 3758 upd 2. 
+[2022/04/18@08:04:37.089-0300] P-6060       T-5132  I ABL      : (13547) No final do refazer Físico, o tamanho da tabela de transação é 1. 
+[2022/04/18@08:04:37.148-0300] P-6060       T-5132  I ABL      : (7129)  Usr 0 define nome para arorap1. 
+[2022/04/18@09:16:59.663-0300] P-6060       T-5132  I ABL      : (15109) No fechamento do banco de dados o número de transações ao vivo é 0. 
+[2022/04/18@09:16:59.663-0300] P-6060       T-5132  I ABL      : (15743) Conclusão do log Before Image no bloco 20 Offset 5000. 
+[2022/04/18@09:16:59.668-0300] P-6060       T-5132  I ABL      : (334)   Fim de sessão Single-user. 
+
+                Tue Apr 19 09:14:10 2022
+[2022/04/19@09:14:10.014-0300] P-4956       T-5452  I ABL      : (451)   Sessão Single-user iniciada por arorap1 em CON:. 
+[2022/04/19@09:14:10.027-0300] P-4956       T-5452  I ABL      : (15321) Inicialização do log Before Image no bloco 20  offset 5000. 
+[2022/04/19@09:14:10.034-0300] P-4956       T-5452  I ABL      : (7129)  Usr 0 define nome para arorap1. 
+
+                Wed Apr 20 14:41:10 2022
+[2022/04/20@14:41:10.576-0300] P-4956       T-5452  I ABL      : (15109) No fechamento do banco de dados o número de transações ao vivo é 0. 
+[2022/04/20@14:41:10.576-0300] P-4956       T-5452  I ABL      : (15743) Conclusão do log Before Image no bloco 21 Offset 4031. 
+[2022/04/20@14:41:10.582-0300] P-4956       T-5452  I ABL      : (334)   Fim de sessão Single-user. 
+
+                Mon Apr 25 08:26:08 2022
+[2022/04/25@08:26:08.920-0300] P-3424       T-4424  I ABL      : (451)   Sessão Single-user iniciada por arorap1 em CON:. 
+[2022/04/25@08:26:08.936-0300] P-3424       T-4424  I ABL      : (15321) Inicialização do log Before Image no bloco 21  offset 4031. 
+[2022/04/25@08:26:09.113-0300] P-3424       T-4424  I ABL      : (7129)  Usr 0 define nome para arorap1. 
+[2022/04/25@14:17:37.383-0300] P-3424       T-4424  I ABL      : (15109) No fechamento do banco de dados o número de transações ao vivo é 0. 
+[2022/04/25@14:17:37.383-0300] P-3424       T-4424  I ABL      : (15743) Conclusão do log Before Image no bloco 21 Offset 4091. 
+[2022/04/25@14:17:37.391-0300] P-3424       T-4424  I ABL      : (334)   Fim de sessão Single-user. 
+
+                Tue Apr 26 08:36:42 2022
+[2022/04/26@08:36:42.806-0300] P-4332       T-2228  I ABL      : (451)   Sessão Single-user iniciada por arorap1 em CON:. 
+[2022/04/26@08:36:42.808-0300] P-4332       T-2228  I ABL      : (15321) Inicialização do log Before Image no bloco 21  offset 4091. 
+[2022/04/26@08:36:42.818-0300] P-4332       T-2228  I ABL      : (7129)  Usr 0 define nome para arorap1. 
+[2022/04/26@14:40:59.720-0300] P-4332       T-2228  I ABL      : (15109) No fechamento do banco de dados o número de transações ao vivo é 0. 
+[2022/04/26@14:40:59.720-0300] P-4332       T-2228  I ABL      : (15743) Conclusão do log Before Image no bloco 21 Offset 5841. 
+[2022/04/26@14:40:59.729-0300] P-4332       T-2228  I ABL      : (334)   Fim de sessão Single-user. 
+
+                Wed Apr 27 08:29:59 2022
+[2022/04/27@08:29:59.544-0300] P-2252       T-1072  I ABL      : (451)   Sessão Single-user iniciada por arorap1 em CON:. 
+[2022/04/27@08:29:59.546-0300] P-2252       T-1072  I ABL      : (15321) Inicialização do log Before Image no bloco 21  offset 5841. 
+[2022/04/27@08:29:59.554-0300] P-2252       T-1072  I ABL      : (7129)  Usr 0 define nome para arorap1. 
+
+                Tue May 03 13:19:06 2022
+[2022/05/03@13:19:06.736-0300] P-2252       T-1072  I ABL      : (15109) No fechamento do banco de dados o número de transações ao vivo é 0. 
+[2022/05/03@13:19:06.737-0300] P-2252       T-1072  I ABL      : (15743) Conclusão do log Before Image no bloco 21 Offset 6935. 
+[2022/05/03@13:19:06.744-0300] P-2252       T-1072  I ABL      : (334)   Fim de sessão Single-user. 
+
+                Mon May 09 11:36:57 2022
+[2022/05/09@11:36:57.187-0300] P-7504       T-9212  I ABL      : (451)   Sessão Single-user iniciada por arorap1 em CON:. 
+[2022/05/09@11:36:57.190-0300] P-7504       T-9212  I ABL      : (15321) Inicialização do log Before Image no bloco 21  offset 6935. 
+[2022/05/09@11:36:57.199-0300] P-7504       T-9212  I ABL      : (7129)  Usr 0 define nome para arorap1. 
+
+                Tue May 10 13:03:05 2022
+[2022/05/10@13:03:05.554-0300] P-7504       T-9212  I ABL      : (15109) No fechamento do banco de dados o número de transações ao vivo é 0. 
+[2022/05/10@13:03:05.554-0300] P-7504       T-9212  I ABL      : (15743) Conclusão do log Before Image no bloco 21 Offset 6935. 
+[2022/05/10@13:03:05.561-0300] P-7504       T-9212  I ABL      : (334)   Fim de sessão Single-user. 
+
+                Fri May 13 13:31:10 2022
+[2022/05/13@13:31:10.692-0300] P-7776       T-11504 I ABL      : (451)   Sessão Single-user iniciada por arorap1 em CON:. 
+[2022/05/13@13:31:10.695-0300] P-7776       T-11504 I ABL      : (15321) Inicialização do log Before Image no bloco 21  offset 6935. 
+[2022/05/13@13:31:10.708-0300] P-7776       T-11504 I ABL      : (7129)  Usr 0 define nome para arorap1. 
+[2022/05/13@14:17:12.754-0300] P-7776       T-11504 I ABL      : (15109) No fechamento do banco de dados o número de transações ao vivo é 0. 
+[2022/05/13@14:17:12.754-0300] P-7776       T-11504 I ABL      : (15743) Conclusão do log Before Image no bloco 21 Offset 6935. 
+[2022/05/13@14:17:12.762-0300] P-7776       T-11504 I ABL      : (334)   Fim de sessão Single-user. 
+
+                Thu Jun 23 13:39:29 2022
+[2022/06/23@13:39:29.849-0300] P-6256       T-2464  I ABL      : (451)   Sessão Single-user iniciada por arorap1 em CON:. 
+[2022/06/23@13:39:29.887-0300] P-6256       T-2464  I ABL      : (15321) Inicialização do log Before Image no bloco 21  offset 6935. 
+[2022/06/23@13:39:30.094-0300] P-6256       T-2464  I ABL      : (7129)  Usr 0 define nome para arorap1. 
+[2022/06/23@14:03:26.528-0300] P-6256       T-2464  I ABL      : (15109) No fechamento do banco de dados o número de transações ao vivo é 0. 
+[2022/06/23@14:03:26.528-0300] P-6256       T-2464  I ABL      : (15743) Conclusão do log Before Image no bloco 22 Offset 455. 
+[2022/06/23@14:03:26.552-0300] P-6256       T-2464  I ABL      : (334)   Fim de sessão Single-user. 
+
+                Wed Jun 29 12:53:17 2022
+[2022/06/29@12:53:17.086-0300] P-5156       T-8796  I ABL      : (451)   Sessão Single-user iniciada por arorap1 em CON:. 
+[2022/06/29@12:53:17.088-0300] P-5156       T-8796  I ABL      : (15321) Inicialização do log Before Image no bloco 22  offset 455. 
+[2022/06/29@12:53:17.098-0300] P-5156       T-8796  I ABL      : (7129)  Usr 0 define nome para arorap1. 
+[2022/06/29@12:53:21.201-0300] P-5156       T-8796  I ABL      : (15109) No fechamento do banco de dados o número de transações ao vivo é 0. 
+[2022/06/29@12:53:21.201-0300] P-5156       T-8796  I ABL      : (15743) Conclusão do log Before Image no bloco 22 Offset 455. 
+[2022/06/29@12:53:21.214-0300] P-5156       T-8796  I ABL      : (334)   Fim de sessão Single-user. 
+
+                Mon Jul 18 10:54:26 2022
+[2022/07/18@10:54:26.532-0300] P-6076       T-5244  I ABL      : (451)   Sessão Single-user iniciada por arorap1 em CON:. 
+[2022/07/18@10:54:26.553-0300] P-6076       T-5244  I ABL      : (15321) Inicialização do log Before Image no bloco 22  offset 455. 
+[2022/07/18@10:54:26.736-0300] P-6076       T-5244  I ABL      : (7129)  Usr 0 define nome para arorap1. 
+[2022/07/18@11:24:36.087-0300] P-6076       T-5244  I ABL      : (15109) No fechamento do banco de dados o número de transações ao vivo é 0. 
+[2022/07/18@11:24:36.087-0300] P-6076       T-5244  I ABL      : (15743) Conclusão do log Before Image no bloco 22 Offset 1736. 
+[2022/07/18@11:24:36.099-0300] P-6076       T-5244  I ABL      : (334)   Fim de sessão Single-user. 
+
+                Tue Jul 19 10:35:33 2022
+[2022/07/19@10:35:33.049-0300] P-4620       T-8940  I ABL      : (451)   Sessão Single-user iniciada por arorap1 em CON:. 
+[2022/07/19@10:35:33.051-0300] P-4620       T-8940  I ABL      : (15321) Inicialização do log Before Image no bloco 22  offset 1736. 
+[2022/07/19@10:35:33.061-0300] P-4620       T-8940  I ABL      : (7129)  Usr 0 define nome para arorap1. 
+[2022/07/19@10:39:20.504-0300] P-4620       T-8940  I ABL      : (15109) No fechamento do banco de dados o número de transações ao vivo é 0. 
+[2022/07/19@10:39:20.504-0300] P-4620       T-8940  I ABL      : (15743) Conclusão do log Before Image no bloco 22 Offset 1736. 
+[2022/07/19@10:39:20.532-0300] P-4620       T-8940  I ABL      : (334)   Fim de sessão Single-user. 
+
+                Tue Jul 19 10:39:28 2022
+[2022/07/19@10:39:28.840-0300] P-2992       T-6804  I ABL      : (451)   Sessão Single-user iniciada por arorap1 em CON:. 
+[2022/07/19@10:39:28.843-0300] P-2992       T-6804  I ABL      : (15321) Inicialização do log Before Image no bloco 22  offset 1736. 
+[2022/07/19@10:39:28.851-0300] P-2992       T-6804  I ABL      : (7129)  Usr 0 define nome para arorap1. 
+[2022/07/19@11:16:19.602-0300] P-2992       T-6804  I ABL      : (15109) No fechamento do banco de dados o número de transações ao vivo é 0. 
+[2022/07/19@11:16:19.603-0300] P-2992       T-6804  I ABL      : (15743) Conclusão do log Before Image no bloco 22 Offset 1736. 
+[2022/07/19@11:16:19.615-0300] P-2992       T-6804  I ABL      : (334)   Fim de sessão Single-user. 
+
+                Tue Jul 19 11:16:49 2022
+[2022/07/19@11:16:49.409-0300] P-7612       T-6588  I ABL      : (451)   Sessão Single-user iniciada por arorap1 em CON:. 
+[2022/07/19@11:16:49.411-0300] P-7612       T-6588  I ABL      : (15321) Inicialização do log Before Image no bloco 22  offset 1736. 
+[2022/07/19@11:16:49.420-0300] P-7612       T-6588  I ABL      : (7129)  Usr 0 define nome para arorap1. 
+[2022/07/19@11:18:43.548-0300] P-7612       T-6588  I ABL      : (15109) No fechamento do banco de dados o número de transações ao vivo é 0. 
+[2022/07/19@11:18:43.548-0300] P-7612       T-6588  I ABL      : (15743) Conclusão do log Before Image no bloco 22 Offset 1736. 
+[2022/07/19@11:18:43.561-0300] P-7612       T-6588  I ABL      : (334)   Fim de sessão Single-user. 
+
+                Tue Jul 19 11:18:47 2022
+[2022/07/19@11:18:47.627-0300] P-6468       T-8436  I ABL      : (451)   Sessão Single-user iniciada por arorap1 em CON:. 
+[2022/07/19@11:18:47.629-0300] P-6468       T-8436  I ABL      : (15321) Inicialização do log Before Image no bloco 22  offset 1736. 
+[2022/07/19@11:18:47.638-0300] P-6468       T-8436  I ABL      : (7129)  Usr 0 define nome para arorap1. 
+[2022/07/19@11:21:02.012-0300] P-6468       T-8436  I ABL      : (15109) No fechamento do banco de dados o número de transações ao vivo é 0. 
+[2022/07/19@11:21:02.012-0300] P-6468       T-8436  I ABL      : (15743) Conclusão do log Before Image no bloco 22 Offset 1736. 
+[2022/07/19@11:21:02.027-0300] P-6468       T-8436  I ABL      : (334)   Fim de sessão Single-user. 
+
+                Tue Jul 19 11:21:10 2022
+[2022/07/19@11:21:10.264-0300] P-8820       T-8336  I ABL      : (451)   Sessão Single-user iniciada por arorap1 em CON:. 
+[2022/07/19@11:21:10.266-0300] P-8820       T-8336  I ABL      : (15321) Inicialização do log Before Image no bloco 22  offset 1736. 
+[2022/07/19@11:21:10.276-0300] P-8820       T-8336  I ABL      : (7129)  Usr 0 define nome para arorap1. 
+[2022/07/19@11:21:48.956-0300] P-8820       T-8336  I ABL      : (15109) No fechamento do banco de dados o número de transações ao vivo é 0. 
+[2022/07/19@11:21:48.956-0300] P-8820       T-8336  I ABL      : (15743) Conclusão do log Before Image no bloco 22 Offset 1736. 
+[2022/07/19@11:21:48.970-0300] P-8820       T-8336  I ABL      : (334)   Fim de sessão Single-user. 
+
+                Tue Jul 19 11:22:00 2022
+[2022/07/19@11:22:00.166-0300] P-8928       T-4488  I ABL      : (451)   Sessão Single-user iniciada por arorap1 em CON:. 
+[2022/07/19@11:22:00.168-0300] P-8928       T-4488  I ABL      : (15321) Inicialização do log Before Image no bloco 22  offset 1736. 
+[2022/07/19@11:22:00.176-0300] P-8928       T-4488  I ABL      : (7129)  Usr 0 define nome para arorap1. 
+[2022/07/19@11:23:09.548-0300] P-8928       T-4488  I ABL      : (15109) No fechamento do banco de dados o número de transações ao vivo é 0. 
+[2022/07/19@11:23:09.549-0300] P-8928       T-4488  I ABL      : (15743) Conclusão do log Before Image no bloco 22 Offset 1736. 
+[2022/07/19@11:23:09.562-0300] P-8928       T-4488  I ABL      : (334)   Fim de sessão Single-user. 
+
+                Tue Jul 19 11:23:13 2022
+[2022/07/19@11:23:13.581-0300] P-8220       T-8264  I ABL      : (451)   Sessão Single-user iniciada por arorap1 em CON:. 
+[2022/07/19@11:23:13.583-0300] P-8220       T-8264  I ABL      : (15321) Inicialização do log Before Image no bloco 22  offset 1736. 
+[2022/07/19@11:23:13.591-0300] P-8220       T-8264  I ABL      : (7129)  Usr 0 define nome para arorap1. 
+[2022/07/19@11:24:36.014-0300] P-8220       T-8264  I ABL      : (15109) No fechamento do banco de dados o número de transações ao vivo é 0. 
+[2022/07/19@11:24:36.014-0300] P-8220       T-8264  I ABL      : (15743) Conclusão do log Before Image no bloco 22 Offset 1736. 
+[2022/07/19@11:24:36.031-0300] P-8220       T-8264  I ABL      : (334)   Fim de sessão Single-user. 
+
+                Tue Jul 19 11:24:43 2022
+[2022/07/19@11:24:43.028-0300] P-2504       T-4324  I ABL      : (451)   Sessão Single-user iniciada por arorap1 em CON:. 
+[2022/07/19@11:24:43.030-0300] P-2504       T-4324  I ABL      : (15321) Inicialização do log Before Image no bloco 22  offset 1736. 
+[2022/07/19@11:24:43.039-0300] P-2504       T-4324  I ABL      : (7129)  Usr 0 define nome para arorap1. 
+[2022/07/19@11:25:32.859-0300] P-2504       T-4324  I ABL      : (15109) No fechamento do banco de dados o número de transações ao vivo é 0. 
+[2022/07/19@11:25:32.859-0300] P-2504       T-4324  I ABL      : (15743) Conclusão do log Before Image no bloco 22 Offset 1736. 
+[2022/07/19@11:25:32.872-0300] P-2504       T-4324  I ABL      : (334)   Fim de sessão Single-user. 
+
+                Tue Jul 19 11:25:44 2022
+[2022/07/19@11:25:44.165-0300] P-6280       T-5020  I ABL      : (451)   Sessão Single-user iniciada por arorap1 em CON:. 
+[2022/07/19@11:25:44.167-0300] P-6280       T-5020  I ABL      : (15321) Inicialização do log Before Image no bloco 22  offset 1736. 
+[2022/07/19@11:25:44.176-0300] P-6280       T-5020  I ABL      : (7129)  Usr 0 define nome para arorap1. 
+[2022/07/19@11:30:50.709-0300] P-6280       T-5020  I ABL      : (15109) No fechamento do banco de dados o número de transações ao vivo é 0. 
+[2022/07/19@11:30:50.709-0300] P-6280       T-5020  I ABL      : (15743) Conclusão do log Before Image no bloco 22 Offset 1736. 
+[2022/07/19@11:30:50.723-0300] P-6280       T-5020  I ABL      : (334)   Fim de sessão Single-user. 
+
+                Tue Jul 19 11:31:03 2022
+[2022/07/19@11:31:03.801-0300] P-6836       T-8832  I ABL      : (451)   Sessão Single-user iniciada por arorap1 em CON:. 
+[2022/07/19@11:31:03.803-0300] P-6836       T-8832  I ABL      : (15321) Inicialização do log Before Image no bloco 22  offset 1736. 
+[2022/07/19@11:31:03.813-0300] P-6836       T-8832  I ABL      : (7129)  Usr 0 define nome para arorap1. 
+[2022/07/19@11:33:59.289-0300] P-6836       T-8832  I ABL      : (15109) No fechamento do banco de dados o número de transações ao vivo é 0. 
+[2022/07/19@11:33:59.289-0300] P-6836       T-8832  I ABL      : (15743) Conclusão do log Before Image no bloco 22 Offset 1736. 
+[2022/07/19@11:33:59.302-0300] P-6836       T-8832  I ABL      : (334)   Fim de sessão Single-user. 
+
+                Tue Jul 19 11:34:11 2022
+[2022/07/19@11:34:11.752-0300] P-3060       T-6604  I ABL      : (451)   Sessão Single-user iniciada por arorap1 em CON:. 
+[2022/07/19@11:34:11.754-0300] P-3060       T-6604  I ABL      : (15321) Inicialização do log Before Image no bloco 22  offset 1736. 
+[2022/07/19@11:34:11.764-0300] P-3060       T-6604  I ABL      : (7129)  Usr 0 define nome para arorap1. 
+[2022/07/19@11:36:35.329-0300] P-3060       T-6604  I ABL      : (15109) No fechamento do banco de dados o número de transações ao vivo é 0. 
+[2022/07/19@11:36:35.329-0300] P-3060       T-6604  I ABL      : (15743) Conclusão do log Before Image no bloco 22 Offset 1736. 
+[2022/07/19@11:36:35.343-0300] P-3060       T-6604  I ABL      : (334)   Fim de sessão Single-user. 
+
+                Tue Jul 19 11:36:41 2022
+[2022/07/19@11:36:41.858-0300] P-6328       T-8240  I ABL      : (451)   Sessão Single-user iniciada por arorap1 em CON:. 
+[2022/07/19@11:36:41.860-0300] P-6328       T-8240  I ABL      : (15321) Inicialização do log Before Image no bloco 22  offset 1736. 
+[2022/07/19@11:36:41.869-0300] P-6328       T-8240  I ABL      : (7129)  Usr 0 define nome para arorap1. 
+[2022/07/19@11:39:59.864-0300] P-6328       T-8240  I ABL      : (15109) No fechamento do banco de dados o número de transações ao vivo é 0. 
+[2022/07/19@11:39:59.864-0300] P-6328       T-8240  I ABL      : (15743) Conclusão do log Before Image no bloco 22 Offset 1736. 
+[2022/07/19@11:39:59.878-0300] P-6328       T-8240  I ABL      : (334)   Fim de sessão Single-user. 
+
+                Tue Jul 19 11:40:11 2022
+[2022/07/19@11:40:11.507-0300] P-2224       T-5528  I ABL      : (451)   Sessão Single-user iniciada por arorap1 em CON:. 
+[2022/07/19@11:40:11.509-0300] P-2224       T-5528  I ABL      : (15321) Inicialização do log Before Image no bloco 22  offset 1736. 
+[2022/07/19@11:40:11.519-0300] P-2224       T-5528  I ABL      : (7129)  Usr 0 define nome para arorap1. 
+[2022/07/19@13:45:02.380-0300] P-2224       T-5528  I ABL      : (15109) No fechamento do banco de dados o número de transações ao vivo é 0. 
+[2022/07/19@13:45:02.380-0300] P-2224       T-5528  I ABL      : (15743) Conclusão do log Before Image no bloco 22 Offset 1736. 
+[2022/07/19@13:45:02.394-0300] P-2224       T-5528  I ABL      : (334)   Fim de sessão Single-user. 
+
+                Tue Jul 19 13:45:17 2022
+[2022/07/19@13:45:17.449-0300] P-4488       T-9208  I ABL      : (451)   Sessão Single-user iniciada por arorap1 em CON:. 
+[2022/07/19@13:45:17.451-0300] P-4488       T-9208  I ABL      : (15321) Inicialização do log Before Image no bloco 22  offset 1736. 
+[2022/07/19@13:45:17.460-0300] P-4488       T-9208  I ABL      : (7129)  Usr 0 define nome para arorap1. 
+[2022/07/19@13:55:30.648-0300] P-4488       T-9208  I ABL      : (15109) No fechamento do banco de dados o número de transações ao vivo é 0. 
+[2022/07/19@13:55:30.648-0300] P-4488       T-9208  I ABL      : (15743) Conclusão do log Before Image no bloco 22 Offset 1736. 
+[2022/07/19@13:55:30.662-0300] P-4488       T-9208  I ABL      : (334)   Fim de sessão Single-user. 
+
+                Tue Jul 19 13:55:54 2022
+[2022/07/19@13:55:54.413-0300] P-7544       T-3696  I ABL      : (451)   Sessão Single-user iniciada por arorap1 em CON:. 
+[2022/07/19@13:55:54.415-0300] P-7544       T-3696  I ABL      : (15321) Inicialização do log Before Image no bloco 22  offset 1736. 
+[2022/07/19@13:55:54.424-0300] P-7544       T-3696  I ABL      : (7129)  Usr 0 define nome para arorap1. 
+[2022/07/19@13:59:46.618-0300] P-7544       T-3696  I ABL      : (15109) No fechamento do banco de dados o número de transações ao vivo é 0. 
+[2022/07/19@13:59:46.618-0300] P-7544       T-3696  I ABL      : (15743) Conclusão do log Before Image no bloco 22 Offset 1736. 
+[2022/07/19@13:59:46.631-0300] P-7544       T-3696  I ABL      : (334)   Fim de sessão Single-user. 
+
+                Tue Jul 19 13:59:54 2022
+[2022/07/19@13:59:54.335-0300] P-1884       T-6872  I ABL      : (451)   Sessão Single-user iniciada por arorap1 em CON:. 
+[2022/07/19@13:59:54.337-0300] P-1884       T-6872  I ABL      : (15321) Inicialização do log Before Image no bloco 22  offset 1736. 
+[2022/07/19@13:59:54.347-0300] P-1884       T-6872  I ABL      : (7129)  Usr 0 define nome para arorap1. 
+[2022/07/19@14:03:33.598-0300] P-1884       T-6872  I ABL      : (15109) No fechamento do banco de dados o número de transações ao vivo é 0. 
+[2022/07/19@14:03:33.598-0300] P-1884       T-6872  I ABL      : (15743) Conclusão do log Before Image no bloco 22 Offset 1736. 
+[2022/07/19@14:03:33.612-0300] P-1884       T-6872  I ABL      : (334)   Fim de sessão Single-user. 
+
+                Tue Jul 19 14:03:45 2022
+[2022/07/19@14:03:45.664-0300] P-7148       T-6476  I ABL      : (451)   Sessão Single-user iniciada por arorap1 em CON:. 
+[2022/07/19@14:03:45.666-0300] P-7148       T-6476  I ABL      : (15321) Inicialização do log Before Image no bloco 22  offset 1736. 
+[2022/07/19@14:03:45.676-0300] P-7148       T-6476  I ABL      : (7129)  Usr 0 define nome para arorap1. 
+[2022/07/19@14:44:35.360-0300] P-7148       T-6476  I ABL      : (15109) No fechamento do banco de dados o número de transações ao vivo é 0. 
+[2022/07/19@14:44:35.360-0300] P-7148       T-6476  I ABL      : (15743) Conclusão do log Before Image no bloco 22 Offset 1736. 
+[2022/07/19@14:44:35.373-0300] P-7148       T-6476  I ABL      : (334)   Fim de sessão Single-user. 
+
+                Tue Jul 19 14:44:48 2022
+[2022/07/19@14:44:48.809-0300] P-8648       T-32    I ABL      : (451)   Sessão Single-user iniciada por arorap1 em CON:. 
+[2022/07/19@14:44:48.812-0300] P-8648       T-32    I ABL      : (15321) Inicialização do log Before Image no bloco 22  offset 1736. 
+[2022/07/19@14:44:48.821-0300] P-8648       T-32    I ABL      : (7129)  Usr 0 define nome para arorap1. 
+[2022/07/19@14:46:23.620-0300] P-8648       T-32    I ABL      : (15109) No fechamento do banco de dados o número de transações ao vivo é 0. 
+[2022/07/19@14:46:23.620-0300] P-8648       T-32    I ABL      : (15743) Conclusão do log Before Image no bloco 22 Offset 1736. 
+[2022/07/19@14:46:23.633-0300] P-8648       T-32    I ABL      : (334)   Fim de sessão Single-user. 
+
+                Tue Jul 19 14:46:43 2022
+[2022/07/19@14:46:43.463-0300] P-8872       T-8672  I ABL      : (451)   Sessão Single-user iniciada por arorap1 em CON:. 
+[2022/07/19@14:46:43.466-0300] P-8872       T-8672  I ABL      : (15321) Inicialização do log Before Image no bloco 22  offset 1736. 
+[2022/07/19@14:46:43.475-0300] P-8872       T-8672  I ABL      : (7129)  Usr 0 define nome para arorap1. 
+[2022/07/19@14:49:26.411-0300] P-8872       T-8672  I ABL      : (15109) No fechamento do banco de dados o número de transações ao vivo é 0. 
+[2022/07/19@14:49:26.411-0300] P-8872       T-8672  I ABL      : (15743) Conclusão do log Before Image no bloco 22 Offset 1736. 
+[2022/07/19@14:49:26.425-0300] P-8872       T-8672  I ABL      : (334)   Fim de sessão Single-user. 
+
+                Tue Jul 19 14:49:35 2022
+[2022/07/19@14:49:35.377-0300] P-5756       T-7352  I ABL      : (451)   Sessão Single-user iniciada por arorap1 em CON:. 
+[2022/07/19@14:49:35.379-0300] P-5756       T-7352  I ABL      : (15321) Inicialização do log Before Image no bloco 22  offset 1736. 
+[2022/07/19@14:49:35.389-0300] P-5756       T-7352  I ABL      : (7129)  Usr 0 define nome para arorap1. 
+[2022/07/19@14:59:25.883-0300] P-5756       T-7352  I ABL      : (15109) No fechamento do banco de dados o número de transações ao vivo é 0. 
+[2022/07/19@14:59:25.883-0300] P-5756       T-7352  I ABL      : (15743) Conclusão do log Before Image no bloco 22 Offset 1736. 
+[2022/07/19@14:59:25.896-0300] P-5756       T-7352  I ABL      : (334)   Fim de sessão Single-user. 
+
+                Wed Jul 20 08:29:20 2022
+[2022/07/20@08:29:20.345-0300] P-4412       T-8356  I ABL      : (451)   Sessão Single-user iniciada por arorap1 em CON:. 
+[2022/07/20@08:29:20.347-0300] P-4412       T-8356  I ABL      : (15321) Inicialização do log Before Image no bloco 22  offset 1736. 
+[2022/07/20@08:29:20.364-0300] P-4412       T-8356  I ABL      : (7129)  Usr 0 define nome para arorap1. 
+
+                Thu Jul 21 11:00:55 2022
+[2022/07/21@11:00:55.381-0300] P-4412       T-8356  I ABL      : (15109) No fechamento do banco de dados o número de transações ao vivo é 0. 
+[2022/07/21@11:00:55.381-0300] P-4412       T-8356  I ABL      : (15743) Conclusão do log Before Image no bloco 22 Offset 1736. 
+[2022/07/21@11:00:55.394-0300] P-4412       T-8356  I ABL      : (334)   Fim de sessão Single-user. 
+
+                Thu Aug 18 11:39:37 2022
+[2022/08/18@11:39:37.128-0300] P-8700       T-8504  I ABL      : (451)   Sessão Single-user iniciada por arorap1 em CON:. 
+[2022/08/18@11:39:37.158-0300] P-8700       T-8504  I ABL      : (15321) Inicialização do log Before Image no bloco 22  offset 1736. 
+[2022/08/18@11:39:37.529-0300] P-8700       T-8504  I ABL      : (7129)  Usr 0 define nome para arorap1. 
+[2022/08/18@11:42:34.870-0300] P-8700       T-8504  I ABL      : (15109) No fechamento do banco de dados o número de transações ao vivo é 0. 
+[2022/08/18@11:42:34.870-0300] P-8700       T-8504  I ABL      : (15743) Conclusão do log Before Image no bloco 22 Offset 1736. 
+[2022/08/18@11:42:34.882-0300] P-8700       T-8504  I ABL      : (334)   Fim de sessão Single-user. 
+
+                Tue Sep 06 09:37:35 2022
+[2022/09/06@09:37:35.730-0300] P-4812       T-7176  I ABL      : (451)   Sessão Single-user iniciada por arorap1 em CON:. 
+[2022/09/06@09:37:35.738-0300] P-4812       T-7176  I ABL      : (15321) Inicialização do log Before Image no bloco 22  offset 1736. 
+[2022/09/06@09:37:35.965-0300] P-4812       T-7176  I ABL      : (7129)  Usr 0 define nome para arorap1. 
+
+                Fri Sep  9 11:20:57 2022
+[2022/09/09@11:20:57.216-0300] P-8340       T-18764 I ABL      : (451)   Sessão Single-user iniciada por arorap1 em CON:. 
+[2022/09/09@11:20:57.230-0300] P-8340       T-18764 I ABL      : (5326)  Iniciar Fase de Refazer Físico em 0 . 
+[2022/09/09@11:20:57.244-0300] P-8340       T-18764 I ABL      : (7161)  Fase de Refazer Físico Concluída no blk 22 off 1796 upd 0. 
+[2022/09/09@11:20:57.246-0300] P-8340       T-18764 I ABL      : (13547) No final do refazer Físico, o tamanho da tabela de transação é 1. 
+[2022/09/09@11:20:57.301-0300] P-8340       T-18764 I ABL      : (7129)  Usr 0 define nome para arorap1. 
+[2022/09/09@11:22:40.221-0300] P-8340       T-18764 I ABL      : (43)    ** Não foi possível encontrar ou abrir o arquivo C:\RTA\RTA.d1, errno = 2. 
+[2022/09/09@11:22:46.807-0300] P-8340       T-18764 I ABL      : (43)    ** Não foi possível encontrar ou abrir o arquivo C:\RTA\RTA.d1, errno = 2. 
+[2022/09/09@11:24:36.853-0300] P-8340       T-18764 I ABL      : (43)    ** Não foi possível encontrar ou abrir o arquivo C:\RTA\RTA.d1, errno = 2. 
+[2022/09/09@11:27:03.365-0300] P-8340       T-18764 I ABL      : (43)    ** Não foi possível encontrar ou abrir o arquivo C:\RTA\RTA.d1, errno = 2. 
+[2022/09/09@11:31:20.533-0300] P-8340       T-18764 I ABL      : (15109) No fechamento do banco de dados o número de transações ao vivo é 0. 
+[2022/09/09@11:31:20.536-0300] P-8340       T-18764 I ABL      : (15743) Conclusão do log Before Image no bloco 22 Offset 1856. 
+[2022/09/09@11:31:20.551-0300] P-8340       T-18764 I ABL      : (334)   Fim de sessão Single-user. 
+
+                Fri Sep  9 11:31:24 2022
+[2022/09/09@11:31:24.533-0300] P-18984      T-17796 I ABL      : (451)   Sessão Single-user iniciada por arorap1 em CON:. 
+[2022/09/09@11:31:24.537-0300] P-18984      T-17796 I ABL      : (15321) Inicialização do log Before Image no bloco 22  offset 1856. 
+[2022/09/09@11:31:24.576-0300] P-18984      T-17796 I ABL      : (7129)  Usr 0 define nome para arorap1. 
+[2022/09/09@11:31:31.806-0300] P-18984      T-17796 I ABL      : (15109) No fechamento do banco de dados o número de transações ao vivo é 0. 
+[2022/09/09@11:31:31.809-0300] P-18984      T-17796 I ABL      : (15743) Conclusão do log Before Image no bloco 22 Offset 1856. 
+[2022/09/09@11:31:31.822-0300] P-18984      T-17796 I ABL      : (334)   Fim de sessão Single-user. 
+
+                Fri Sep  9 11:32:12 2022
+[2022/09/09@11:32:12.841-0300] P-15820      T-15732 I ABL      : (451)   Sessão Single-user iniciada por arorap1 em CON:. 
+[2022/09/09@11:32:12.845-0300] P-15820      T-15732 I ABL      : (15321) Inicialização do log Before Image no bloco 22  offset 1856. 
+[2022/09/09@11:32:12.885-0300] P-15820      T-15732 I ABL      : (7129)  Usr 0 define nome para arorap1. 
+[2022/09/09@11:32:15.486-0300] P-15820      T-15732 I ABL      : (15109) No fechamento do banco de dados o número de transações ao vivo é 0. 
+[2022/09/09@11:32:15.489-0300] P-15820      T-15732 I ABL      : (15743) Conclusão do log Before Image no bloco 22 Offset 1856. 
+[2022/09/09@11:32:15.503-0300] P-15820      T-15732 I ABL      : (334)   Fim de sessão Single-user. 
+
+                Fri Sep  9 11:32:52 2022
+[2022/09/09@11:32:52.882-0300] P-11540      T-16608 I ABL      : (451)   Sessão Single-user iniciada por arorap1 em CON:. 
+[2022/09/09@11:32:52.886-0300] P-11540      T-16608 I ABL      : (15321) Inicialização do log Before Image no bloco 22  offset 1856. 
+[2022/09/09@11:32:52.924-0300] P-11540      T-16608 I ABL      : (7129)  Usr 0 define nome para arorap1. 
+[2022/09/09@11:32:56.321-0300] P-11540      T-16608 I ABL      : (15109) No fechamento do banco de dados o número de transações ao vivo é 0. 
+[2022/09/09@11:32:56.323-0300] P-11540      T-16608 I ABL      : (15743) Conclusão do log Before Image no bloco 22 Offset 1856. 
+[2022/09/09@11:32:56.339-0300] P-11540      T-16608 I ABL      : (334)   Fim de sessão Single-user. 
+
+                Fri Sep  9 11:35:15 2022
+[2022/09/09@11:35:15.462-0300] P-16944      T-15928 I ABL      : (451)   Sessão Single-user iniciada por arorap1 em CON:. 
+[2022/09/09@11:35:15.466-0300] P-16944      T-15928 I ABL      : (15321) Inicialização do log Before Image no bloco 22  offset 1856. 
+[2022/09/09@11:35:15.506-0300] P-16944      T-15928 I ABL      : (7129)  Usr 0 define nome para arorap1. 
+[2022/09/09@13:51:04.707-0300] P-16944      T-15928 I ABL      : (15109) No fechamento do banco de dados o número de transações ao vivo é 0. 
+[2022/09/09@13:51:04.710-0300] P-16944      T-15928 I ABL      : (15743) Conclusão do log Before Image no bloco 22 Offset 1916. 
+[2022/09/09@13:51:04.724-0300] P-16944      T-15928 I ABL      : (334)   Fim de sessão Single-user. 
+
+                Wed Sep 14 10:43:32 2022
+[2022/09/14@10:43:32.935-0300] P-1672       T-7276  I ABL      : (451)   Sessão Single-user iniciada por arorap1 em CON:. 
+[2022/09/14@10:43:32.947-0300] P-1672       T-7276  I ABL      : (15321) Inicialização do log Before Image no bloco 22  offset 1916. 
+[2022/09/14@10:43:33.123-0300] P-1672       T-7276  I ABL      : (7129)  Usr 0 define nome para arorap1. 
+[2022/09/14@14:58:43.624-0300] P-1672       T-7276  I ABL      : (15109) No fechamento do banco de dados o número de transações ao vivo é 0. 
+[2022/09/14@14:58:43.627-0300] P-1672       T-7276  I ABL      : (15743) Conclusão do log Before Image no bloco 22 Offset 3193. 
+[2022/09/14@14:58:43.639-0300] P-1672       T-7276  I ABL      : (334)   Fim de sessão Single-user. 
